@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-#What I Do
+
+What I Do
+==========
 
 I’m a web developer and technology teacher. I specialize in PHP and Javascript. 
 
