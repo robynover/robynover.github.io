@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+}
+.banner, .main {
+  padding: 40px 15px;
+  /*text-align: center;*/
+}
+.row{
+  margin-bottom: 20px;
+
+}
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.square-row .col-md-1{
+	height:100px;
+	margin:1em;
+	word-wrap: break-word;
+	overflow: hidden;
+	-webkit-transition: color 2s;
+    transition: color 2s;
+}
+.square-row .col-md-1:hover{
+	color:#efefef;
+}
