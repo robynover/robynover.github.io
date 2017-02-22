@@ -23,8 +23,8 @@ body {
 	overflow: hidden;
 	-webkit-transition: color 2s;
   transition: color 2s; 
-
 }
+
 .square-row .col-md-1:hover{
 	color:#efefef;
 }
