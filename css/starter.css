@@ -12,6 +12,7 @@ body {
 [class*="col-"] {
   padding-top: 15px;
   padding-bottom: 15px;
+  border: 1px solid #ccc;
 }
 .square-row .col-md-1{
 	height:100px;
@@ -19,8 +20,20 @@ body {
 	word-wrap: break-word;
 	overflow: hidden;
 	-webkit-transition: color 2s;
-    transition: color 2s;
+  transition: color 2s; 
 }
 .square-row .col-md-1:hover{
 	color:#efefef;
+}
+.info-col{
+  margin:4.5em;
+}
+.info-col:first-child{
+  margin-left: 0;
+}
+.info-col:last-child{
+  margin-right: 0;
+}
+.info-col h3{
+  border-bottom: 1px solid #ccc;
 }

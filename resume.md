@@ -9,24 +9,25 @@ Brooklyn, NY
 
 ## Experience
 
-### Web Developer, AMC Networks
+#### Web Developer, AMC Networks
 
 2016 - present
+
 Support high-volume television network websites, implementing Javascript on the front end, and PHP/MySQL/Wordpress on the back end.
 
 #### Database and Mobile Developer, New York University [Ethoinformatics Project](http://ethoinformatics.org/)
 
-2013 – 2016  
+2013 – 2015  
 Work with a close-knit team of technologists and primatologists to build mobile applications for data collection in the field. Specialize in database interoperability and structure. Build mobile prototypes for iOS and Android. Project funded by National Science Foundation.
 
 #### Instructor, New York University [Interactive Telecommunications Program](http://itp.nyu.edu)
 
-2013 – present  
+2013 – 2015  
 Teach graduate-level courses on web technologies in a high-tech fast-paced art program.
 
 #### Web Developer, freelance
 
-2003 – present  
+2003 – 2015  
 Build custom systems with PHP, including WordPress and Drupal solutions. 
 
 #### PHP Instructor, [Zend Technologies](http://zend.com "Zend Technologies")
