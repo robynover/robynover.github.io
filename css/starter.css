@@ -21,8 +21,8 @@ body {
 	margin:1em;
 	word-wrap: break-word;
 	overflow: hidden;
-	-webkit-transition: color 2s;
-  transition: color 2s; 
+	/*-webkit-transition: color 2s;
+  transition: color 2s; */
 }
 
 .square-row .col-md-1:hover{
