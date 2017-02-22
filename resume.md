@@ -9,9 +9,14 @@ Brooklyn, NY
 
 ## Experience
 
+### Web Developer, AMC Networks
+
+2016 - present
+Support high-volume television network websites, implementing Javascript on the front end, and PHP/MySQL/Wordpress on the back end.
+
 #### Database and Mobile Developer, New York University [Ethoinformatics Project](http://ethoinformatics.org/)
 
-2013 – present  
+2013 – 2016  
 Work with a close-knit team of technologists and primatologists to build mobile applications for data collection in the field. Specialize in database interoperability and structure. Build mobile prototypes for iOS and Android. Project funded by National Science Foundation.
 
 #### Instructor, New York University [Interactive Telecommunications Program](http://itp.nyu.edu)
