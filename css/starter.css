@@ -10,17 +10,20 @@ body {
 
 }
 [class*="col-"] {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  /*padding-top: 15px;
+  padding-bottom: 15px;*/
   border: 1px solid #ccc;
 }
 .square-row .col-md-1{
-	height:100px;
+  color: #c0c0c0;
+  background-color: #ccc;
+	height:15px;
 	margin:1em;
 	word-wrap: break-word;
 	overflow: hidden;
 	-webkit-transition: color 2s;
   transition: color 2s; 
+
 }
 .square-row .col-md-1:hover{
 	color:#efefef;
