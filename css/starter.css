@@ -40,3 +40,9 @@ body {
 .info-col h3{
   border-bottom: 1px solid #ccc;
 }
+.github-widget {
+  border: 0 !important;
+}
+.gh-widget-heading, .gh-widget-hr, .gh-widget-repositories, .gh-widget-active-time{
+  display: none;
+}
