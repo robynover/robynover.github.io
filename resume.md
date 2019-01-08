@@ -9,9 +9,15 @@ Brooklyn, NY
 
 ## Experience
 
+#### Engineering Fellow, [Blue Ridge Labs](https://labs.robinhood.org/)
+
+2018
+
+Design and develop technology solutions for low-income New Yorkers, in collaboration with communities, activists, non-profit organizations, and other technologists.
+
 #### Web Developer, AMC Networks
 
-2016 - present
+2016 - 2017
 
 Support high-volume television network websites, implementing Javascript on the front end, and PHP/MySQL/Wordpress on the back end.
 
