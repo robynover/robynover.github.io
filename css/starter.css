@@ -14,6 +14,9 @@ body {
   padding-bottom: 15px;*/
   border: 1px solid #ccc;
 }
+.square-row {
+  border-top: 10px dashed #3a958c;
+}
 .square-row .col-md-1{
   color: #c0c0c0;
   background-color: #ccc;
