@@ -12,6 +12,7 @@ Brooklyn, NY
 #### Web Developer, freelance
 
 2003 – present 
+
 Client work with a focus on custom content management solutions, including WordPress and Drupal backed systems.
 
 #### Engineering Fellow, [Blue Ridge Labs](https://labs.robinhood.org/)
