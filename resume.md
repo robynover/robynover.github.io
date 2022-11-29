@@ -9,6 +9,11 @@ Brooklyn, NY
 
 ## Experience
 
+#### Web Developer, freelance
+
+2003 – present 
+Client work with a focus on custom content management solutions, including WordPress and Drupal backed systems.
+
 #### Engineering Fellow, [Blue Ridge Labs](https://labs.robinhood.org/)
 
 2018
@@ -30,11 +35,7 @@ Work with a close-knit team of technologists and primatologists to build mobile 
 
 2013 – 2015  
 Teach graduate-level courses on web technologies in a high-tech fast-paced art program.
-
-#### Web Developer, freelance
-
-2003 – 2015  
-Build custom systems with PHP, including WordPress and Drupal solutions. 
+ 
 
 #### PHP Instructor, [Zend Technologies](http://zend.com "Zend Technologies")
 
