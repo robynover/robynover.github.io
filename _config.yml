@@ -20,3 +20,4 @@ github_username:  robynover
 # Build settings
 markdown: kramdown
 exclude: [vendor]
+theme: cayman
