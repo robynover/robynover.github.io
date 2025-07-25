@@ -32,13 +32,13 @@ body {
 	color:#efefef;
 }
 .info-col{
-  margin:5%;
+  margin:4%;
 }
 .info-col:first-child{
-  margin-left: 0;
+  /*margin-left: 0;*/
 }
 .info-col:last-child{
-  margin-right: 0;
+  /*margin-right: 0;*/
 }
 .info-col h3{
   border-bottom: 1px solid #ccc;
